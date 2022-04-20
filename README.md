@@ -2,9 +2,9 @@
 
 The project is inspired from the sources below. Please have a look for more details and how to use- 
 
-Website: https://dejim.com/how-to-read-and-write-apache-parquet-files-in-mulesoft/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-read-and-write-apache-parquet-files-in-mulesoft
-Youtuebe: https://youtu.be/V2TL4H5EB7I
-GitHub: https://github.com/djuang1/parquet
+Website: [https://dejim.com/how-to-read-and-write-apache-parquet-files-in-mulesoft/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-read-and-write-apache-parquet-files-in-mulesoft]
+Youtuebe: [https://youtu.be/V2TL4H5EB7I]
+GitHub: [https://github.com/djuang1/parquet]
 
 ## Tech Used
 - The connector is completely written in Java with latest Mule-Sdk
