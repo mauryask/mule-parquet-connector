@@ -19,8 +19,6 @@ GitHub: https://github.com/djuang1/parquet
 
 ## Installation
 
-Install the dependencies and devDependencies and start the server.
-
 1) Clone the the project into your local system
 2) Go to the folder consisting of pom.xml
 3) open Command Propmt(CMD) and Run the below maven command
