@@ -6,11 +6,8 @@ Website: [https://dejim.com/how-to-read-and-write-apache-parquet-files-in-muleso
 Youtuebe: [https://youtu.be/V2TL4H5EB7I]
 GitHub: [https://github.com/djuang1/parquet]
 
-## Tech Used
-- The connector is completely written in Java with latest Mule-Sdk
-
 ## Features
-- Convert sample JSON data into Parquet format and write it into a file
+- Convert JSON data into Parquet format and write it into a file
 - Read a Parquet file and convert it back into JSON format
 
 ## Prerequisites
@@ -19,16 +16,16 @@ GitHub: [https://github.com/djuang1/parquet]
 
 ## Installation
 
-1) Clone the the project into your local system
-2) Go to the folder consisting of pom.xml
-3) open Command Propmt(CMD) and Run the below maven command
+1) Clone the the project.
+2) Go to the folder that contains pom.xml
+3) open Command Propmt and Run the below maven command
 
 ```sh
 mvn clean install -DskipTests
 ```
-4) Now the connector is installed into your local system.
-5) It's time to use it into your Mule project 
-6) Add below dependency into your pom.xml file 
+4) The connector is installed into your system locally.
+6) To use it into your Mule project 
+7) Add below dependency into the pom.xml file 
 
 ```sh
 <dependency>
